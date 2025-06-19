@@ -1,25 +1,32 @@
-<h1 align="center">Hi 👋, I'm Monishan Sangaralingam</h1>
-<h3 align="center">A Passionate Computer Engineering Undergraduate from Sri Lanka 🇱🇰</h3>
-
+<!-- Typing Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=monishan-sangaralingam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Monishan-Sangaralingam">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=440&lines=Hi+I'm+Monishan+Sangaralingam;Computer+Engineering+Undergraduate;Future+Tech+Entrepreneur" alt="Typing SVG" />
+  </a>
 </p>
 
----
+<!-- Profile Pic (Optional) -->
+<!-- <p align="center">
+  <img src="https://i.ibb.co/some-image.jpg" width="200px" style="border-radius: 50%;">
+</p> -->
 
-- 🔭 I’m currently working on a **Textile Management System** using C#
-- 🌱 Learning **Spring Boot**, **Java**, and **x86 Assembly**
-- 💬 Ask me about **C#**, **MongoDB**, **Java**, and **frontend development**
-- 🧠 Exploring backend frameworks and system-level programming
-- 🎯 Goal: **Master one field in computer engineering and build my own company**
-- 📫 Reach me: **chrishmonish@gmail.com**
+<h3 align="center">B.Sc. Eng. (Hons) | Computer Engineering | University of Ruhuna</h3>
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
+- 🔭 Currently working on **Clone social media web application** using Spring boot
+- 🌱 Learning **Spring Boot**, **Java**, **x86 Assembly**
+- 🧠 Exploring backend systems, MongoDB, and advanced programming
+- 🎯 Dream: Build my own tech company after mastering one core field
+- 📫 Reach me at: **chrishmonish@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/monishan-sangaralingam-b8b1ab241/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/chrishmonish" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
@@ -31,30 +38,44 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monishan-sangaralingam&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=monishan-sangaralingam&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishan-sangaralingam&layout=compact&theme=default" alt="Top Languages" />
-</p>
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=monishan-sangaralingam&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monishan-sangaralingam&show_icons=true&theme=default" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishan-sangaralingam&layout=compact&theme=default" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monishan-sangaralingam&bg_color=ffffff&color=0A66C2&line=17A2B8&point=1c1c1c&area=true&hide_border=true" />
+</p>
+
+---
+
