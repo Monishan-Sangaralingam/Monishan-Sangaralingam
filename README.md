@@ -6,9 +6,9 @@
 </p>
 
 <!--Profile Pic (Optional) -->
-<!-- <p align="center">
-  <img src="https://i.ibb.co/some-image.jpg" width="200px" style="border-radius: 50%;">
-</p> -->
+ <p align="center">
+  <img src="https://github.com/Monishan-Sangaralingam/Monishan-Sangaralingam/blob/main/Monishan%20FOE.JPG" width="200px" style="border-radius: 50%;">
+</p> 
 
 <h3 align="center">B.Sc. Eng. (Hons) | Computer Engineering | University of Ruhuna</h3>
 
