@@ -15,7 +15,7 @@
 ---
 
 - 🔭 Currently working on **Clone social media web application** using Spring boot
-- 🌱 Learning **Spring Boot**, **Java**, **x86 Assembly**
+- 🌱 Learning **Devops**, **ML**, **Mobile application**
 - 🧠 Exploring backend systems, MongoDB, and advanced programming
 - 🎯 Dream: Build my own tech company after mastering one core field
 - 📫 Reach me at: **chrishmonish@gmail.com**
