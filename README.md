@@ -150,13 +150,6 @@ I'm a **Computer Engineering undergraduate** with hands-on experience in **full-
 
 ---
 
-## 🎖️ Leadership & Achievements
-
-- 🏛️ **President**, Tamil Society — University of Ruhuna *(Aug 2025 – Present)*
-- 🤝 **Mentorship Program Participant** — Sri Lanka Unites & Career Guidance Society, UOR
-- 🎤 **Volunteer Delegate Coordinator**, Mock Interview Program — University of Ruhuna
-- 📜 **Certificate Course in Soft Skills Development (CCSSD)** — Leadership Development Program (SLU × UOR)
-- ⚡ **IEEE Member** *(Since December 2024)* — Competed in **IEEE Xtreme 18.0 & 19.0**
 
 ---
 
